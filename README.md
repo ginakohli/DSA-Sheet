@@ -16,4 +16,16 @@ Collection of DSA questions organized topic-wise with solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ginakohli/DSA-Sheet/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0090-subsets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
