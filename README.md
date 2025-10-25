@@ -7,11 +7,13 @@ Collection of DSA questions organized topic-wise with solutions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ginakohli/DSA-Sheet/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -32,4 +34,8 @@ Collection of DSA questions organized topic-wise with solutions
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
