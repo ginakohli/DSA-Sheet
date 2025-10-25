@@ -3,11 +3,22 @@ class Solution {
 
         int count = 0;
         int n = s.length();
-        Boolean memo[][] = new Boolean[n+1][n+1];
+        boolean dp[][] = new boolean[n+1][n+1];
       
-        for(int i = 0; i < n; i++){
-            for(int j = i; j < n; j++){
-                if(isPalindrome(i, j, s, memo)){
+        for(int L =1; L <= n; L++){
+            for(int i = 0; i+L-1 < n; i++){
+                int j = i+L-1;
+                if(L==1){
+                   dp[i][j] = true;
+                }
+                else if(L==2){
+                    dp[i][j] = (s.charAt(i) == s.charAt(j));
+                }
+                else{
+                    dp[i][j] = (s.charAt(i) == s.charAt(j)) && dp[i+1][j-1];
+                }
+
+                if(dp[i][j]){
                     count++;
                 }
             }
@@ -15,19 +26,5 @@ class Solution {
         return count;
     }
 
-    public boolean isPalindrome(int i, int j, String s, Boolean memo[][]){
-          if(i > j){
-            return true;
-          }
-
-          if(memo[i][j] != null){
-            return memo[i][j];
-          }
-
-          if(s.charAt(i) == s.charAt(j)){
-            return memo[i][j] = isPalindrome(i+1, j-1, s, memo);
-          }
-
-          return false;
-    }
+    
 }
