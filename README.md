@@ -13,6 +13,7 @@ Collection of DSA questions organized topic-wise with solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/ginakohli/DSA-Sheet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ginakohli/DSA-Sheet/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
@@ -41,4 +42,12 @@ Collection of DSA questions organized topic-wise with solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ginakohli/DSA-Sheet/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ginakohli/DSA-Sheet/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
