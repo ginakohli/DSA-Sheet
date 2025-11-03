@@ -16,6 +16,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0005-longest-palindromic-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ginakohli/DSA-Sheet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ginakohli/DSA-Sheet/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/ginakohli/DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ginakohli/DSA-Sheet/tree/master/0242-valid-anagram) |
@@ -30,6 +31,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0014-longest-common-prefix](https://github.com/ginakohli/DSA-Sheet/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/ginakohli/DSA-Sheet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/ginakohli/DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
@@ -51,6 +53,7 @@ Collection of DSA questions organized topic-wise with solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ginakohli/DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ginakohli/DSA-Sheet/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ginakohli/DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/ginakohli/DSA-Sheet/tree/master/0242-valid-anagram) |
 ## Math
@@ -65,5 +68,6 @@ Collection of DSA questions organized topic-wise with solutions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ginakohli/DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ginakohli/DSA-Sheet/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
