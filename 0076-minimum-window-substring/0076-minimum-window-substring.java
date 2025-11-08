@@ -1,58 +1,50 @@
 class Solution {
     public String minWindow(String s, String t) {
 
+        Map<Character, Integer> freq = new HashMap<>();
+        for(int i = 0; i < t.length(); i++){
+            freq.put(t.charAt(i), freq.getOrDefault(t.charAt(i),0)+1);
+        }
+        int count = freq.size();
         int i = 0;
         int j = 0;
-        int m = s.length();
-        int n = t.length();
-        int count = n;
         int low = 0;
         int high = 0;
-        boolean found = false;
         int minLength = Integer.MAX_VALUE;
+        boolean flag = false;
+        while( j < s.length()){
 
-        if (s == null || t == null || s.length() < t.length()) return "";
-        HashMap<Character, Integer> map = new HashMap<>();
-        for(int k = 0; k < n; k++){
-              map.put(t.charAt(k), map.getOrDefault(t.charAt(k),0)+1);
-        }
-
-
-         while(j < m){
-            
-          
-                 if(map.containsKey(s.charAt(j))){
-                      map.put(s.charAt(j), map.get(s.charAt(j))-1);
-                      if(map.get(s.charAt(j)) >= 0){
-                         count--;
-                  }
+            if(freq.containsKey(s.charAt(j))){
+                freq.put(s.charAt(j), freq.get(s.charAt(j))-1);
+                if(freq.get(s.charAt(j))==0){
+                    count--;
                 }
-                j++;
-              
-             while(count == 0){
-
-                if(minLength > j-i){
-                minLength = j-i;
-                low = i;
-                high = j;
-                found = true;
-              }
+            }
+            j++;
+            
+            while(i < s.length() && count == 0){
                 
-               if(map.containsKey(s.charAt(i))){
-                   map.put(s.charAt(i), map.get(s.charAt(i))+1);
-                   if(map.get(s.charAt(i)) > 0){
+              if(freq.containsKey(s.charAt(i))){
+                freq.put(s.charAt(i), freq.get(s.charAt(i))+1);
+                if(freq.get(s.charAt(i))>0){
                     count++;
                 }
-              }
-              i++;
-
-              
-             }
-         }
-            if(found == true){
-                return s.substring(low, high);
             }
-          return "";
-         }
+            
+            
+            if(minLength > j-i+1){
+                minLength = j-i+1;
+                low = i;
+                high = j;
+                flag = true;
+            }
+           i++;
+        }
         
     }
+    if(flag == false){
+        return "";
+    }
+    return s.substring(low, high);
+}
+}
