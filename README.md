@@ -7,6 +7,7 @@ Collection of DSA questions organized topic-wise with solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/ginakohli/DSA-Sheet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## String
@@ -18,6 +19,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0014-longest-common-prefix](https://github.com/ginakohli/DSA-Sheet/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ginakohli/DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/ginakohli/DSA-Sheet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ginakohli/DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
