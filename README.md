@@ -49,6 +49,7 @@ Collection of DSA questions organized topic-wise with solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/ginakohli/DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ Collection of DSA questions organized topic-wise with solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ginakohli/DSA-Sheet/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/ginakohli/DSA-Sheet/tree/master/0070-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,4 +74,8 @@ Collection of DSA questions organized topic-wise with solutions
 | ------- |
 | [0049-group-anagrams](https://github.com/ginakohli/DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ginakohli/DSA-Sheet/tree/master/0242-valid-anagram) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ginakohli/DSA-Sheet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
