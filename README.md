@@ -50,6 +50,7 @@ Collection of DSA questions organized topic-wise with solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ginakohli/DSA-Sheet/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ginakohli/DSA-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
@@ -78,4 +79,16 @@ Collection of DSA questions organized topic-wise with solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ginakohli/DSA-Sheet/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ginakohli/DSA-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ginakohli/DSA-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ginakohli/DSA-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
