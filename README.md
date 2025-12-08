@@ -82,13 +82,20 @@ Collection of DSA questions organized topic-wise with solutions
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ginakohli/DSA-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ginakohli/DSA-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ginakohli/DSA-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ginakohli/DSA-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ginakohli/DSA-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ginakohli/DSA-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ginakohli/DSA-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
