@@ -46,12 +46,14 @@ Collection of DSA questions organized topic-wise with solutions
 | ------- |
 | [0090-subsets-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0338-counting-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ginakohli/DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ginakohli/DSA-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
