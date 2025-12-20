@@ -12,15 +12,24 @@ class Solution {
     //    return count;
 
     //approacch 2
+    //unset bits
+    // while(n != 0){
+    //     n = n & (n-1);
+    //     count++;
+    // }
+    // return count;
+    // }
 
-    while(n != 0){
-        n = n & (n-1);
-        count++;
+    //approach 3
+    while( n != 0){
+        if(n % 2 == 1){
+            count ++;
+        }
+        n = n/2;
     }
-    return count;
-    }
+return count;
+  }
 }
-
 //approach 1
 //count each bit and unset it to 0 -> n & (n-1)
 
@@ -32,4 +41,4 @@ class Solution {
 //Take Integer.BitCount();
 
 //approach 4
-//
+// Check if ith bit is equal to 1
