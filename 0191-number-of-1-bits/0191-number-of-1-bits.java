@@ -3,13 +3,21 @@ class Solution {
 
         //appproach 1 , check ith bit if its 1 , increase count
         int count = 0;
-       for(int i = 31; i>=0; i--){
-        if(((n >> i) & 1) == 1){
-             count++;
-        }
+    //    for(int i = 31; i>=0; i--){
+    //     if(((n >> i) & 1) == 1){
+    //          count++;
+    //     }
         
-       }
-       return count;
+    //    }
+    //    return count;
+
+    //approacch 2
+
+    while(n != 0){
+        n = n & (n-1);
+        count++;
+    }
+    return count;
     }
 }
 
