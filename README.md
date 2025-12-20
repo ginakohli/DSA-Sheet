@@ -45,6 +45,7 @@ Collection of DSA questions organized topic-wise with solutions
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,4 +99,8 @@ Collection of DSA questions organized topic-wise with solutions
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ginakohli/DSA-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
