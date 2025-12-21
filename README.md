@@ -45,6 +45,7 @@ Collection of DSA questions organized topic-wise with solutions
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0338-counting-bits) |
 ## Dynamic Programming
@@ -104,5 +105,6 @@ Collection of DSA questions organized topic-wise with solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
