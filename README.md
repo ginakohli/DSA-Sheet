@@ -45,6 +45,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0040-combination-sum-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ginakohli/DSA-Sheet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/ginakohli/DSA-Sheet/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ginakohli/DSA-Sheet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
