@@ -39,6 +39,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0078-subsets](https://github.com/ginakohli/DSA-Sheet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0090-subsets-ii) |
 | [0368-largest-divisible-subset](https://github.com/ginakohli/DSA-Sheet/tree/master/0368-largest-divisible-subset) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ginakohli/DSA-Sheet/tree/master/0646-maximum-length-of-pair-chain) |
 ## Backtracking
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/ginakohli/DSA-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/ginakohli/DSA-Sheet/tree/master/0368-largest-divisible-subset) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ginakohli/DSA-Sheet/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
@@ -92,6 +94,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0049-group-anagrams](https://github.com/ginakohli/DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ginakohli/DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/ginakohli/DSA-Sheet/tree/master/0368-largest-divisible-subset) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ginakohli/DSA-Sheet/tree/master/0646-maximum-length-of-pair-chain) |
 ## Memoization
 |  |
 | ------- |
@@ -120,4 +123,8 @@ Collection of DSA questions organized topic-wise with solutions
 | ------- |
 | [0190-reverse-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0191-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/ginakohli/DSA-Sheet/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
