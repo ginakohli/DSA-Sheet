@@ -1,40 +1,48 @@
 class Solution {
     public List<Integer> largestDivisibleSubset(int[] nums) {
+
         
-        int n=nums.length;
+        List<Integer> result = new ArrayList<>();
+        int n = nums.length;
+        int[] maxLen = new int[n+1];
+        int[] prevIdx = new int[n];
+        Arrays.fill(maxLen, 1);
+        Arrays.fill(prevIdx, -1);
+        int maxIdx = 0;
+  
+        int maxCount = 0;
         Arrays.sort(nums);
-        int maxL=1;
-        int maxIndex=0;
-        int []dp= new int [n];
-        int []pIndex = new int[n];
-        Arrays.fill(dp,1);
-        Arrays.fill(pIndex,-1);
-        for(int i=1;i<n;i++){
-              for(int j=0;j<i;j++){
-                if(nums[i]%nums[j]==0){
-                    if(dp[i]<dp[j]+1){
-                        dp[i]=dp[j]+1;
-                        pIndex[i]=j;
-                    }
-                    
-                    if(maxL<dp[i]){
-                       maxL=dp[i];
-                       maxIndex=i;
-                    }
-                    
+        for(int i = 1; i < n; i++){
+            for(int j = 0; j < i; j++){
+                if(nums[i] % nums[j] == 0){
+                       
+                        if(maxLen[j]+1>maxLen[i]){
+                            maxLen[i] = maxLen[j]+1;
+                            prevIdx[i] = j;
+                        }
+
+                        if(maxCount<maxLen[i]){
+                            maxCount = maxLen[i];
+                            maxIdx  = i;
+                        }
                 }
-              }
-        }
-        
-         List<Integer>list = new ArrayList<>();
-         while(maxIndex>=0){
-            list.add(nums[maxIndex]);
-            maxIndex=pIndex[maxIndex];
-         }
+                }
+            }
 
-return list;
+            while(maxIdx != -1){
+                result.add(nums[maxIdx]);
+                maxIdx = prevIdx[maxIdx];
+            }
+                   return result;
         }
+ 
+    }
+
+//            0 1 2
+//           [1,2,3]
+// maxLen    [1,2,2]
+// prevIdx   [-1,0,0]  
+
     
-}
+    
 
-// [1,2,4,8]
