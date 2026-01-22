@@ -22,6 +22,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0125-valid-palindrome](https://github.com/ginakohli/DSA-Sheet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ginakohli/DSA-Sheet/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
@@ -90,6 +91,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0049-group-anagrams](https://github.com/ginakohli/DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/ginakohli/DSA-Sheet/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Collection of DSA questions organized topic-wise with solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ginakohli/DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sorting
 |  |
 | ------- |
