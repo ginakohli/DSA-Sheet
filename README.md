@@ -48,6 +48,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0486-predict-the-winner](https://github.com/ginakohli/DSA-Sheet/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ginakohli/DSA-Sheet/tree/master/0646-maximum-length-of-pair-chain) |
+| [0875-koko-eating-bananas](https://github.com/ginakohli/DSA-Sheet/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ginakohli/DSA-Sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Backtracking
 |  |
@@ -159,5 +160,6 @@ Collection of DSA questions organized topic-wise with solutions
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/ginakohli/DSA-Sheet/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ginakohli/DSA-Sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
