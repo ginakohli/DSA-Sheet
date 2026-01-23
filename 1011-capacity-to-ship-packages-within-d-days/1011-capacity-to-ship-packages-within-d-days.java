@@ -13,7 +13,7 @@ class Solution {
          int low = minWeight;
          int high = maxWeight;
         while(low < high){
-            int mid = (low + high)/2;
+            int mid = low + (high-low)/2;
             if(daysRequired(weights, mid) <=days){
                 high = mid;
             }
