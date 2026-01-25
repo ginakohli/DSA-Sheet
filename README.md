@@ -101,6 +101,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0070-climbing-stairs](https://github.com/ginakohli/DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/ginakohli/DSA-Sheet/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/ginakohli/DSA-Sheet/tree/master/0486-predict-the-winner) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/ginakohli/DSA-Sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Sliding Window
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Collection of DSA questions organized topic-wise with solutions
 ## Binary Search
 |  |
 | ------- |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/ginakohli/DSA-Sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0875-koko-eating-bananas](https://github.com/ginakohli/DSA-Sheet/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ginakohli/DSA-Sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
