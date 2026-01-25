@@ -77,6 +77,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ginakohli/DSA-Sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ginakohli/DSA-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0264-ugly-number-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ginakohli/DSA-Sheet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ginakohli/DSA-Sheet/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ginakohli/DSA-Sheet/tree/master/0338-counting-bits) |
@@ -93,12 +94,14 @@ Collection of DSA questions organized topic-wise with solutions
 | [0049-group-anagrams](https://github.com/ginakohli/DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/ginakohli/DSA-Sheet/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ginakohli/DSA-Sheet/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ginakohli/DSA-Sheet/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/ginakohli/DSA-Sheet/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/ginakohli/DSA-Sheet/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ginakohli/DSA-Sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -164,4 +167,8 @@ Collection of DSA questions organized topic-wise with solutions
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ginakohli/DSA-Sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0875-koko-eating-bananas](https://github.com/ginakohli/DSA-Sheet/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ginakohli/DSA-Sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
