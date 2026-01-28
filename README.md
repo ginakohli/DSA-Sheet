@@ -51,6 +51,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0518-coin-change-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ginakohli/DSA-Sheet/tree/master/0646-maximum-length-of-pair-chain) |
 | [0875-koko-eating-bananas](https://github.com/ginakohli/DSA-Sheet/tree/master/0875-koko-eating-bananas) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ginakohli/DSA-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ginakohli/DSA-Sheet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Backtracking
 |  |
@@ -99,6 +100,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0264-ugly-number-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/ginakohli/DSA-Sheet/tree/master/0763-partition-labels) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ginakohli/DSA-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/ginakohli/DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ginakohli/DSA-Sheet/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ginakohli/DSA-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -175,4 +178,8 @@ Collection of DSA questions organized topic-wise with solutions
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0264-ugly-number-ii) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/ginakohli/DSA-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
