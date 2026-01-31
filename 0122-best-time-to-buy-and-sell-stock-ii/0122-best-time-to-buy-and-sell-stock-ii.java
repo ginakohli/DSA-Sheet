@@ -3,15 +3,17 @@ class Solution {
 
         int n = prices.length;
 
-        int[][] memo = new int[2][n+1];
+      int[][] memo = new int[2][n+1];
 
-        for(int[] m : memo){
-            Arrays.fill(m, -1);
-        }
-       return solve(prices, 0, 1, memo);
+      for(int []m : memo){
+        Arrays.fill(m, -1);
+      }
+
+      return solve(prices, memo, 1, 0 );
+
     }
 
-    public int solve(int[] prices, int i, int canBuy, int[][] memo){
+    public int solve(int[] prices, int[][]memo, int buy, int i){
 
         int profit = 0;
 
@@ -19,20 +21,20 @@ class Solution {
             return 0;
         }
 
-        if(memo[canBuy][i] != -1){
-            return memo[canBuy][i];
+        if(memo[buy][i]!=-1){
+            return memo[buy][i];
         }
-        if(canBuy == 1){
-           int buy = -prices[i] + solve(prices, i+1, 0, memo);
-           int skip = 0 + solve(prices, i+1, 1, memo);
-           profit = Math.max(buy, skip);
+  
+        if(buy == 1){
+            int buyStock = -prices[i] + solve(prices, memo, 0, i+1);
+            int skipStock = solve(prices, memo, 1, i+1);
+            profit = Math.max(buyStock, skipStock);
         }
         else{
-           int sell = prices[i] + solve(prices, i+1, 1, memo);
-           int skip = 0 + solve(prices, i+1, 0, memo);
-           profit = Math.max(sell, skip);
+            int sellStock = prices[i] + solve(prices, memo, 1, i+1);
+            int skipStock = solve(prices, memo, 0, i+1);
+            profit = Math.max(sellStock, skipStock);
         }
-
-        return memo[canBuy][i]=profit;
+     return memo[buy][i] = profit;
     }
 }
