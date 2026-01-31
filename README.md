@@ -25,6 +25,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0242-valid-anagram](https://github.com/ginakohli/DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/ginakohli/DSA-Sheet/tree/master/0763-partition-labels) |
 ## Trie
 |  |
@@ -89,6 +90,7 @@ Collection of DSA questions organized topic-wise with solutions
 | [0518-coin-change-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ginakohli/DSA-Sheet/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/ginakohli/DSA-Sheet/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Collection of DSA questions organized topic-wise with solutions
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ginakohli/DSA-Sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ginakohli/DSA-Sheet/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/ginakohli/DSA-Sheet/tree/master/0763-partition-labels) |
 ## Recursion
 |  |
@@ -182,4 +185,8 @@ Collection of DSA questions organized topic-wise with solutions
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/ginakohli/DSA-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ginakohli/DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
